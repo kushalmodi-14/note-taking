@@ -15,11 +15,7 @@ A powerful and efficient note-taking app built using the MERN stack (MongoDB, Ex
 - **Frontend**: React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Styling**: CSS / TailwindCSS / Material-UI
-
-## Screenshots
-
-*Include screenshots of your app here.*
+- **Styling**: CSS / TailwindCSS
 
 ## Installation
 
